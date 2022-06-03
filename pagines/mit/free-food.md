@@ -16,18 +16,47 @@ Bàsicament n'hi ha dues: una per tot el MIT i l'altra per CSAIL.
 Recomano free-foods en concret perquè en teoria té un filtre de spam millor que les altres.
 * CSAIL: [https://lists.csail.mit.edu/mailman/listinfo/vultures](https://lists.csail.mit.edu/mailman/listinfo/vultures). A CSAIL tenen aquesta i hi ha bastant menjar. Val la pena.
 
-## Banana lounge
-<!-- TODO -->
-
 ## Slack
-<!-- TODO -->
+Hi ha un canal del Slack corporatiu del MIT on posen molts avisos quan hi ha menjar.
+No sé com entrar-hi, he de buscar com ho fa la gent que hi és.
+
+## Banana lounge
+Hi ha una sala plena de plàtans.
+Podeu anar-hi a qualsevol hora del dia i agafar plàtans, cafè o te.
+També hi ha gent fent la migdiada.
+Trobeu-ho a la [sala 26-110](http://whereis.mit.edu/?go=26).
+
+Fun fact: l'aula del davant és la més gran del MIT.
 
 ## Engage@MIT
-<!-- TODO -->
+Aquí pengen molts dels events que es fan pel campus.
+Entreu a [https://engage.mit.edu/](https://engage.mit.edu/) i mireu el que hi ha.
+Segur que trobeu alguna cosa interessant on anar.
 
 ## SloanGroups
-<!-- TODO -->
+El mateix que Engage però només per Sloan.
+Hi ha moltíssimes xerrades amb menjar.
+Aneu a alguna que us interessi.
+Entreu aquí [https://sloangroups.mit.edu/](https://sloangroups.mit.edu/).
+
+## Media Lab Food Cam
+Al MediaLab es fan molts events.
+A tots els sobra menjar.
+El que els sobra ho posen a sobre una taula al tercer pis.
+
+Quan posen menjar nou a la taula, apreten un botó que penja un tuit automàticament al [perfil de la food cam](https://twitter.com/medialabfoodcam).
+Activeu-vos les notificacions.
+També hi ha un [streaming en directe](http://foodcam.media.mit.edu/view/view.shtml) del que hi ha a la taula.
 
 ## ISO events
-<!-- TODO -->
+L'[oficina d'estudiants internacionals](https://iso.mit.edu/) organitza events sovint.
+Són interessants, sobretot per estudiants nous a la zona.
+Subscriviu-vos a la seva [llista de mails](https://iso.mit.edu/about-iso/newsletters/) i rebreu informació del que es fa cada setmana.
 
+## Getir
+Getir envia el menjar a domicili.
+No és cap cosa especial, però hi ha codis de descompte que regalen 30 minuts.
+Feu servir aquest codi del meu company de pis:
+
+Daniele Pugliese has invited you to use Getir! 💜 Enjoy $25 off your first order. Click on the link and use code RRAMYOQ at the checkout. 🎁
+[https://getir.onelink.me/rFzf/wtum5v75](https://getir.onelink.me/rFzf/wtum5v75)
