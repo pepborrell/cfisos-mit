@@ -21,5 +21,8 @@ Espero que sigui útil.
 
 Si us plau, si falta alguna cosa, escriviu-la (podeu fer una PR al [repo](https://github.com/pepborrell/cfisos-mit)).
 
+# Coses de Boston
+* [Housing](./pagines/boston/housing.md)
+
 # Coses del MIT
 * [Free food](./pagines/mit/free-food.md)
