@@ -12,9 +12,9 @@ Com que molta gent ja està marxant i és una llàstima que es perdin tot el con
 ## Mailing lists
 La manera més fàcil de trobar menjar és amb les mailing lists.
 Bàsicament n'hi ha dues: una per tot el MIT i l'altra per CSAIL.
-* MIT: https://mailman.mit.edu/mailman/listinfo/free-foods. Hi ha altres llistes, com free-food i vultures@mit, però totes són àlies de la mateixa.
+* MIT: [https://mailman.mit.edu/mailman/listinfo/free-foods](https://mailman.mit.edu/mailman/listinfo/free-foods). Hi ha altres llistes, com free-food i vultures@mit, però totes són àlies de la mateixa.
 Recomano free-foods en concret perquè en teoria té un filtre de spam millor que les altres.
-* CSAIL: https://lists.csail.mit.edu/mailman/listinfo/vultures. A CSAIL tenen aquesta i hi ha bastant menjar. Val la pena.
+* CSAIL: [https://lists.csail.mit.edu/mailman/listinfo/vultures](https://lists.csail.mit.edu/mailman/listinfo/vultures). A CSAIL tenen aquesta i hi ha bastant menjar. Val la pena.
 
 ## Banana lounge
 <!-- TODO -->
