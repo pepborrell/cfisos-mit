@@ -52,11 +52,3 @@ També hi ha un [streaming en directe](http://foodcam.media.mit.edu/view/view.sh
 L'[oficina d'estudiants internacionals](https://iso.mit.edu/) organitza events sovint.
 Són interessants, sobretot per estudiants nous a la zona.
 Subscriviu-vos a la seva [llista de mails](https://iso.mit.edu/about-iso/newsletters/) i rebreu informació del que es fa cada setmana.
-
-## Getir
-Getir envia el menjar a domicili.
-No és cap cosa especial, però hi ha codis de descompte que regalen 30 minuts.
-Feu servir aquest codi del meu company de pis:
-
-Daniele Pugliese has invited you to use Getir! 💜 Enjoy $25 off your first order. Click on the link and use code RRAMYOQ at the checkout. 🎁
-[https://getir.onelink.me/rFzf/wtum5v75](https://getir.onelink.me/rFzf/wtum5v75)
