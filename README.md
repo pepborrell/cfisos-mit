@@ -26,3 +26,4 @@ Si us plau, si falta alguna cosa, escriviu-la (podeu fer una PR al [repo](https:
 
 # Coses del MIT
 * [Free food](./pagines/mit/free-food.md)
+* [Conèixer a gent](./pagines/mit/coneixer.md)
