@@ -11,6 +11,10 @@ Acostuma a ser una mica random però sempre pot ser divertit.
 ## VISTA
 Apunteu-vos al que fan a [VISTA](coneixer.md)!
 
+## EuroClub
+L'associació d'estudiants europeus munta coses sovint.
+Apunteu-vos a la llista d'emails de la [seva web](https://euroclub.mit.edu/), és l'única manera d'enterar-se de què fan.
+
 ## Esport
 Hi ha el gimnàs, on podeu anar a fer esport quan volgueu.
 
